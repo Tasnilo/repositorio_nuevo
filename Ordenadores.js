@@ -2,4 +2,3 @@ Ordenadores
 
 ordenadors
 
-Ordenadores
