@@ -1,3 +1,3 @@
 Logioca de pintado en JS
 
-modifico vista
+modifico vistas
